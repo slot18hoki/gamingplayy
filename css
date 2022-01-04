@@ -1,0 +1,62 @@
+#landinghead {
+	margin-bottom: 80px;	
+}
+
+#landinghead h1 {
+	font-weight: bold;
+	font-size: 20px;
+}
+
+#landinghead p {
+	font-size: 18px;
+	align-content: center;
+	color: black;
+	margin-top: 0px;
+	margin-bottom: 1rem;
+}
+
+#landinghead hr {
+	border-top: 1px solid black;
+	margin-top: 20px;
+	margin-bottom: 0px !important;
+}
+
+#border {
+	border-color: black;
+}
+
+#daftar {
+	font-size: 18px;
+}
+
+.fl-left {
+	float:left;
+}
+
+.fl-right {
+	float:right;
+}
+
+img {
+	margin-bottom: 20px;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+/*@media screen and (min-width: 0px)
+{
+	.container .row . col-6 {
+		padding-left: 0px;
+	}
+	a .btn-danger {
+		font-size: 25px;
+		padding: 18px 18px;
+	}
+
+	a .btn-success {
+		font-size: 25px;
+		padding: 18px 18px;	
+	}
+}*/
